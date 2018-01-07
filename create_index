@@ -1,0 +1,31 @@
+#!/bin/bash
+
+function md2html {
+	path=$1
+
+	for subdirectory in $path/*
+	do
+		if [[ -d $subdirectory ]]
+		then
+			for i in $1
+			do
+				echo "#">"/home/philipp/Dokumente/Notes/indexTest.md"	
+			done
+			md2html $subdirectory
+		fi
+	done
+	
+	for file in $path/*.md
+	do
+		if [ -f $file ]
+		then
+			html_file="${file%.*}"
+			if [ $file -nt $html_file.html ]
+			then
+				`pandoc $file -f markdown -t html --quiet --css="/home/philipp/modest.css" --mathjax -s -o  $html_file.html`
+			fi
+		fi
+	done
+}
+
+md2html "/home/philipp/Dokumente/Notes" 

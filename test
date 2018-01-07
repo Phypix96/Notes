@@ -1,0 +1,8 @@
+#!/bin/bash
+
+function test {
+	path=$1$2
+	echo $path
+}
+
+test "Ein Versuch" "und noch einer"

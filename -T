@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Alltag</title>
+  <style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.line-block{white-space: pre-line;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+  <link rel="stylesheet" href="/home/philipp/modest.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="alltags-to-do-liste">Alltags To-Do Liste</h1>
+<ul>
+<li>[ ] Geld auf Sparda-Konto überweisen
+<ul>
+<li>[ ] Handynummer bei Sparkasse ändern</li>
+</ul></li>
+<li>[ ] Markdown funktionierend machen</li>
+<li>[x] Bett machen</li>
+</ul>
+&lt;!DOCTYPE html&gt;
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+<title>
+Alltag
+</title>
+<style type="text/css">
+      code{white-space: pre-wrap;}
+      span.smallcaps{font-variant: small-caps;}
+      span.underline{text-decoration: underline;}
+      div.line-block{white-space: pre-line;}
+      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  </style>
+<link rel="stylesheet" href="/home/philipp/modest.css"> <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="alltags-to-do-liste">
+Alltags To-Do Liste
+</h1>
+<ul>
+<li>
+[ ] Geld auf Sparda-Konto überweisen
+<ul>
+<li>
+[ ] Handynummer bei Sparkasse ändern
+</li>
+</ul>
+</li>
+<li>
+[ ] Markdown funktionierend machen
+</li>
+<li>
+[x] Bett machen
+</li>
+</ul>
+</body>
+</html>
+</body>
+</html>
